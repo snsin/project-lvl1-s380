@@ -1,6 +1,6 @@
 {
   "name": "braingames-snsin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Console question game. Traning project",
   "main": "index.js",
   "bin": {
