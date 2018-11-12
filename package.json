@@ -11,5 +11,12 @@
     "pet-project"
   ],
   "author": "Sergey Sinitsyn",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "github:snsin/project-lvl1-s380",
+  "dependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.5",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.5"
+  }
 }
