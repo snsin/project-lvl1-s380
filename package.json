@@ -4,7 +4,7 @@
   "description": "Console question game. Traning project",
   "bin": {
     "brain-games": "dist/bin/brain-games.js"
-    },
+  },
   "files": [
     "dist"
   ],
@@ -24,6 +24,13 @@
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.5",
     "@babel/node": "^7.0.0",
-    "@babel/preset-env": "^7.1.5"
+    "@babel/preset-env": "^7.1.5",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
