@@ -4,4 +4,6 @@ dist
 flow-typed
 .tern-port
 .idea
+*.save
+.package.json.swp
 
