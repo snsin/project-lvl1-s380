@@ -2,7 +2,6 @@
   "name": "braingames-snsin",
   "version": "0.1.1",
   "description": "Console question game. Traning project",
-  "main": "index.js",
   "bin": {
     "brain-games": "dist/bin/brain-games.js"
     },
