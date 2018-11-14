@@ -1,9 +1,10 @@
 {
   "name": "braingames-snsin",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Console question game. Traning project",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js"
+    "brain-games": "dist/bin/brain-games.js",
+    "brain-even": "dist/bin/brain-even.js"
   },
   "files": [
     "dist"
@@ -22,9 +23,9 @@
   "repository": "github:snsin/project-lvl1-s380",
   "dependencies": {
     "@babel/cli": "^7.1.5",
-    "@babel/core": "^7.1.5",
+    "@babel/core": "^7.1.6",
     "@babel/node": "^7.0.0",
-    "@babel/preset-env": "^7.1.5",
+    "@babel/preset-env": "^7.1.6",
     "readline-sync": "^1.4.9"
   },
   "devDependencies": {
