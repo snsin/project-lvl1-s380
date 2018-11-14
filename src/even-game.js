@@ -21,7 +21,7 @@ const stringToBoolSelector = {
 
 const intGenerator = () => Math.floor(Math.random() * MAX_NUMBER);
 const answerToBool = answer => stringToBoolSelector[answer];
-const isEven = number => number % 2 === 0;
+const isEven = number => (number !== 0) && (number % 2 === 0);
 const getActualAnswer = boolAnsw => Object.keys(stringToBoolSelector)
   .reduce((acc, elem) => (boolAnsw === answerToBool(elem) ? `${elem}` : acc), '');
 
