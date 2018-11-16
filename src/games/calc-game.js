@@ -1,9 +1,8 @@
 import { play } from '..';
+import intGenerator from '../utils/number-utils';
 
 const description = 'What is the result of the expression?\n';
-const maxNumber = 100;
 
-const intGenerator = () => Math.floor(Math.random() * maxNumber);
 const calculations = [
   {
     symbol: '*',

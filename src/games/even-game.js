@@ -1,9 +1,8 @@
 import { play } from '..';
+import intGenerator from '../utils/number-utils';
 
 const description = 'Answer "yes" if number even otherwise answer "no".\n';
-const maxNumber = 100;
 
-const intGenerator = () => Math.floor(Math.random() * maxNumber);
 const isEven = number => number % 2 === 0;
 
 const moveGenerator = () => {
