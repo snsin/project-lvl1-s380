@@ -3,3 +3,6 @@
 
 ## Installation braingames and starting brain-even
 [![asciicast](https://asciinema.org/a/OrZ3MO9YX42AnUNxRq45pP4y6.svg)](https://asciinema.org/a/OrZ3MO9YX42AnUNxRq45pP4y6)
+
+## How to install braingames and play brain-calc
+[![asciicast](https://asciinema.org/a/a9ojRLixZ9hRcCOuzqBUgsyVV.svg)](https://asciinema.org/a/a9ojRLixZ9hRcCOuzqBUgsyVV)
