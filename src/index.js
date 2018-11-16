@@ -11,7 +11,7 @@ const getNameAndGreeting = () => {
 
 export const play = (game) => {
   console.log(wellcomeLine);
-  console.log(game.rules);
+  console.log(game.description);
   const playerName = getNameAndGreeting();
 
   let message = 'Congratulations, ';

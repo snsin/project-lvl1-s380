@@ -1,4 +1,6 @@
-const rules = 'Answer "yes" if number even otherwise answer "no".\n';
+import { play } from '..';
+
+const description = 'Answer "yes" if number even otherwise answer "no".\n';
 const maxNumber = 100;
 
 const intGenerator = () => Math.floor(Math.random() * maxNumber);
@@ -10,4 +12,4 @@ const moveGenerator = () => {
   return { question, answer };
 };
 
-export default { rules, moveGenerator };
+export default () => play({ description, moveGenerator });
