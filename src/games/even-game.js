@@ -11,4 +11,4 @@ const moveGenerator = () => {
   return { question, answer };
 };
 
-export default () => play({ description, moveGenerator });
+export default () => play(description, moveGenerator);
