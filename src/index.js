@@ -1,6 +1,5 @@
 import readlineSync from 'readline-sync';
 
-const wellcomeLine = 'Wellcome to Brain Games!';
 const correctAnswerCountToWin = 3;
 
 const getNameAndGreeting = () => {
@@ -10,7 +9,7 @@ const getNameAndGreeting = () => {
 };
 
 export const play = (description, moveGenerator) => {
-  console.log(wellcomeLine);
+  console.log('Welcome to Brain Games!');
   console.log(description);
   const playerName = getNameAndGreeting();
 
