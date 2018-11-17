@@ -4,6 +4,7 @@ dist
 flow-typed
 .tern-port
 .idea
+.vscode
 *.save
 *.swp
 
