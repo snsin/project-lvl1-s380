@@ -6,3 +6,6 @@
 
 ## How to install braingames and play brain-calc
 [![asciicast](https://asciinema.org/a/a9ojRLixZ9hRcCOuzqBUgsyVV.svg)](https://asciinema.org/a/a9ojRLixZ9hRcCOuzqBUgsyVV)
+
+## How to install braingames and play brain-gcd
+[![asciicast](https://asciinema.org/a/oDkDrYj71bD32vQh9wnbEkVuE.svg)](https://asciinema.org/a/oDkDrYj71bD32vQh9wnbEkVuE)
