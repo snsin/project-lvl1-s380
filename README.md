@@ -9,3 +9,6 @@
 
 ## How to install braingames and play brain-gcd
 [![asciicast](https://asciinema.org/a/oDkDrYj71bD32vQh9wnbEkVuE.svg)](https://asciinema.org/a/oDkDrYj71bD32vQh9wnbEkVuE)
+
+## How to install braingames and play brain-progression
+[![asciicast](https://asciinema.org/a/z84bL00FBKv7pAAeviJ0lGEFK.svg)](https://asciinema.org/a/z84bL00FBKv7pAAeviJ0lGEFK)
