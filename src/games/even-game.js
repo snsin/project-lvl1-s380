@@ -1,5 +1,5 @@
 import { play } from '..';
-import intGenerator from '../utils/number-utils';
+import intGenerator from '../utils';
 
 const description = 'Answer "yes" if number even otherwise answer "no".\n';
 
@@ -11,4 +11,4 @@ const moveGenerator = () => {
   return { question, answer };
 };
 
-export default () => play({ description, moveGenerator });
+export default () => play(description, moveGenerator);
