@@ -12,3 +12,6 @@
 
 ## How to install braingames and play brain-progression
 [![asciicast](https://asciinema.org/a/z84bL00FBKv7pAAeviJ0lGEFK.svg)](https://asciinema.org/a/z84bL00FBKv7pAAeviJ0lGEFK)
+
+## How to install braingames and play brain-prime
+[![asciicast](https://asciinema.org/a/TEt89IjvmaInwVMdGwXigLAKC.svg)](https://asciinema.org/a/TEt89IjvmaInwVMdGwXigLAKC)
