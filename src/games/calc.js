@@ -1,5 +1,5 @@
 import { play } from '..';
-import intGenerator from '../utils';
+import { intGenerator } from '../utils';
 
 const description = 'What is the result of the expression?\n';
 

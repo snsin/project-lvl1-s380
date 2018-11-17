@@ -1,5 +1,5 @@
 import { play } from '..';
-import intGenerator from '../utils';
+import { intGenerator } from '../utils';
 
 const description = 'Answer "yes" if number even otherwise answer "no".\n';
 
