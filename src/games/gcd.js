@@ -1,17 +1,7 @@
 import { play } from '..';
-import intGenerator from '../utils';
+import { intGenerator, gcd } from '../utils';
 
-const description = 'Find the greatest common divisor of given numbers.\n';
-
-const gcd = (num1, num2) => {
-  const iter = (a, b) => {
-    if (b === 0) {
-      return a;
-    }
-    return iter(b, a % b);
-  };
-  return num1 > num2 ? iter(num1, num2) : iter(num2, num1);
-};
+const description = 'Find the greatest common divisor of given numbers.';
 
 const moveGenerator = () => {
   const a = intGenerator();
