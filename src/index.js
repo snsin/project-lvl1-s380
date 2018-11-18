@@ -10,7 +10,7 @@ const getNameAndGreeting = () => {
 
 export const play = (description, moveGenerator) => {
   console.log('Welcome to Brain Games!');
-  console.log(description);
+  console.log(`${description}\n`);
   const playerName = getNameAndGreeting();
 
   let message = 'Congratulations, ';

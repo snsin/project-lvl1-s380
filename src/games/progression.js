@@ -1,7 +1,7 @@
 import { play } from '..';
 import intGenerator from '../utils';
 
-const description = 'What number is missing in the progression?\n';
+const description = 'What number is missing in the progression?';
 
 const sequenceGenerator = (itemsCount = 10, commonDifference = 10, initialTerm = 1) => {
   const sequence = [];
