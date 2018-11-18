@@ -1,6 +1,10 @@
 {
   "name": "braingames-snsin",
+<<<<<<< HEAD
   "version": "0.7.0",
+=======
+  "version": "0.6.2",
+>>>>>>> progression
   "description": "Console question game. Traning project",
   "bin": {
     "brain-games": "dist/bin/brain-games.js",

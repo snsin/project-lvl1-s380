@@ -1,7 +1,7 @@
 import { play } from '..';
 import { intGenerator } from '../utils';
 
-const description = 'Answer "yes" if number even otherwise answer "no".\n';
+const description = 'Answer "yes" if number even otherwise answer "no".';
 
 const isEven = number => number % 2 === 0;
 
